@@ -25,7 +25,7 @@ SECRET_KEY = '$h&(7_k1-8)i(^!cl8s1$+!@!f17-@d49&bn@0w2x&pc2116lz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['austinmh.pythonanywhere.com']
 
 
 # Application definition
